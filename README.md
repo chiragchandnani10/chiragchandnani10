@@ -10,7 +10,7 @@
 - 🎓 CS undergrad with a strong passion for **AI/ML, Distributed Systems, and Optimization**
 - 🧠 Currently exploring: **Federated Learning**, **LLMs**, and **Secure AI Systems**
 - 📚 Contributor to research in **Deep Learning** and **IoT-based Intrusion Detection** and **LULC Using Oscillatory Activation Functions**
-- 🏅 Recipient of the **Raman Research Award** for contributing towards AI in Security ![Link to our Paper](https://ieeexplore.ieee.org/document/10857281)
+- 🏅 Recipient of the **Raman Research Award** for contributing towards AI in Security [Link to our Paper](https://ieeexplore.ieee.org/document/10857281)
 
 ---
 
@@ -30,7 +30,7 @@
 
 #### ⚙️ Tools & Platforms
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiI+PHJlY3Qgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiByeD0iMyIgZmlsbD0iI0ZGRjAwMCIvPjwvc3ZnPg==&logoColor=white)
+![LangChain](https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21F?style=flat&logo=huggingface&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
