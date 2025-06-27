@@ -1,6 +1,9 @@
-<h1 align="center">I'm Chirag Chandnani</h1>
+<h1 align="center">You Have Tripped Onto The Right Profile! I'm Chirag Chandnani!</h1>
 <p align="center">
    Machine Learning, Deep Learning, Federated Learning & Optimization Researcher
+</p>
+<p align="center">
+   Bike Rider, Explorer and an Avid Marathon Runner (25k)  
 </p>
 
 ---
@@ -8,6 +11,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 CS undergrad with a strong passion for **AI/ML, Distributed Systems, and Optimization**
+- 🏅 Rank Holder in My Department of CSE (Computer Science and Engineering)
 - 🧠 Currently exploring: **Federated Learning**, **LLMs**, and **Secure AI Systems**
 - 📚 Contributor to research in **Deep Learning** and **IoT-based Intrusion Detection** and **LULC Using Oscillatory Activation Functions**
 - 🏅 Recipient of the **Raman Research Award** for contributing towards AI in Security [Link to our Paper](https://ieeexplore.ieee.org/document/10857281)
