@@ -3,7 +3,7 @@
    Machine Learning, Deep Learning, Federated Learning & Optimization Researcher
 </p>
 <p align="center">
-   Bike Rider, Explorer and an Avid Marathon Runner (25k)  
+   * Bike Rider, Explorer and an Avid Marathon Runner (25k) *
 </p>
 
 ---
