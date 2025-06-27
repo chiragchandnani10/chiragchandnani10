@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Chirag Chandnani</h1>
+<h1 align="center">I'm Chirag Chandnani</h1>
 <p align="center">
    Machine Learning, Deep Learning, Federated Learning & Optimization Researcher
 </p>
@@ -35,14 +35,6 @@
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chiragc3&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiragc3&layout=compact&theme=radical" height="160" />
-</p>
 
 ---
 
