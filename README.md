@@ -3,7 +3,7 @@
    Machine Learning, Deep Learning, Federated Learning & Optimization Researcher
 </p>
 <p align="center", style="italics">
-   <i> Bike Rider, Explorer and an Avid Marathon Runner (25k) </i>
+   <i> Bike Rider, Traveller and Explorer and an Avid Marathon Runner (25k) </i>
 </p>
 
 ---
@@ -21,11 +21,12 @@
 ### 🛠️ Tech Stack & Tools
 
 #### 🚀 Languages
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
 ![C](https://img.shields.io/badge/-C-555555?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+
 
 #### 🧠 ML/DL Frameworks
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
