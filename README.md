@@ -11,7 +11,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 CS Grad Student at UIUC with a strong passion for **AI/ML, DL, LLMs, VLMs and VLAs**
-- 🏅 Rank Holder in My Department of CSE (Computer Science and Engineering)
+- 🏅 Undergrad Rank Holder in The Department of CSE (Computer Science and Engineering) at VIT Vellore
 - 🧠 Currently exploring: **Federated Learning**, **LLMs**, and **Secure AI Systems**
 - 📚 Contributor to research in **Deep Learning** and **IoT-based Intrusion Detection** and **LULC Using Oscillatory Activation Functions**
 - 🏅 Recipient of the **Raman Research Award** for contributing towards AI in Security [Link to our Paper](https://ieeexplore.ieee.org/document/10857281)
