@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 CS undergrad with a strong passion for **AI/ML, Distributed Systems, and Optimization**
+- 🎓 CS Grad Student at UIUC with a strong passion for **AI/ML, DL, LLMs, VLMs and VLAs**
 - 🏅 Rank Holder in My Department of CSE (Computer Science and Engineering)
 - 🧠 Currently exploring: **Federated Learning**, **LLMs**, and **Secure AI Systems**
 - 📚 Contributor to research in **Deep Learning** and **IoT-based Intrusion Detection** and **LULC Using Oscillatory Activation Functions**
